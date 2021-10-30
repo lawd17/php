@@ -80,7 +80,7 @@ Al terminar de modificar el fichero recargamos la configuración del servicio Ng
 sudo systemctl reload nginx
 ```
 
-![08-comprobacion-php-midominio](capturas/08-comprobacion-php-midominio.png)
+![08-status-midominio](capturas/08-status-midominio.png)
 
 
 Tras esto como hicimos antes vamos a crear el fichero “info.php” en “/var/www/yourDomain/html/”
